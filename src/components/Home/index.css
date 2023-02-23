@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-image {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+.logo {
+  height: 40px;
+  width: 30px;
+  margin-top: 10px;
+}
+
+.page-heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

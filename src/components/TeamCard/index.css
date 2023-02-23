@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.image {
+  height: 50px;
+  width: 60px;
+}
+
+.team-container {
+  display: flex;
+}
